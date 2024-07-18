@@ -1,0 +1,15 @@
+{
+  "name": "urlbox-cookies-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "open": "^10.1.0",
+    "urlbox": "^2.1.0"
+  },
+  "type": "module"
+}
